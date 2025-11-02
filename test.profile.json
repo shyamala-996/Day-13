@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "69072b200cc2c4046462e01c"
+  },
+  "Name": "Shyam",
+  "Age": 27,
+  "Social": {
+    "instagram": "shyam_545",
+    "linkedin": "shyama_2209"
+  },
+  "interest": [
+    "Gardening",
+    "Music",
+    "Books"
+  ],
+  "Location": "Madurai"
+},
+{
+  "_id": {
+    "$oid": "69072b200cc2c4046462e01d"
+  },
+  "Name": "Ram",
+  "Age": 31,
+  "Social": {
+    "instagram": "rama_123",
+    "linkedin": "rama_1509"
+  },
+  "interest": [
+    "Music",
+    "Foodie",
+    "Dance"
+  ],
+  "Location": "Chennai"
+},
+{
+  "_id": {
+    "$oid": "69072b200cc2c4046462e01e"
+  },
+  "Name": "Siva",
+  "Age": 35,
+  "Social": {
+    "instagram": "siva_456",
+    "linkedin": "siva_0405"
+  },
+  "interest": [
+    "Foodie",
+    "Blogger",
+    "Music"
+  ],
+  "Location": "Trichy"
+},
+{
+  "_id": {
+    "$oid": "69072b200cc2c4046462e01f"
+  },
+  "Name": "Sita",
+  "Age": 33,
+  "Social": {
+    "instagram": "seetha_555",
+    "linkedin": "Siita_9090"
+  },
+  "interest": [
+    "Gardening",
+    "Blogger",
+    "Dance"
+  ],
+  "Location": "Sattur"
+},
+{
+  "_id": {
+    "$oid": "69072b200cc2c4046462e020"
+  },
+  "Name": "Bavya",
+  "Age": 25,
+  "Social": {
+    "instagram": "bbav_3344",
+    "linkedin": "bavya_455"
+  },
+  "interest": [
+    "Music",
+    "Dance",
+    "Foodie"
+  ],
+  "Location": "Chennai"
+}]
