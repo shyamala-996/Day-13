@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c5228"
+  },
+  "author": "Stephen Hawking",
+  "tags": [
+    "Big bang",
+    "Black holes"
+  ],
+  "views": 6000
+},
+{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c5229"
+  },
+  "author": "JK Rowling",
+  "tags": [
+    "Harry potter",
+    "Snape"
+  ],
+  "views": 7000
+},
+{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c522a"
+  },
+  "author": "Stephen Hawking",
+  "tags": [
+    "Nutshell",
+    "Universe"
+  ],
+  "views": 7000
+},
+{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c522b"
+  },
+  "author": "JK Rowling",
+  "tags": [
+    "Draco",
+    "Voldemort"
+  ],
+  "views": 8000
+},
+{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c522c"
+  },
+  "author": "Stephen King",
+  "tags": [
+    "It",
+    "Derry"
+  ],
+  "views": 9000
+},
+{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c522d"
+  },
+  "author": "Charles Dickens",
+  "tags": [
+    "Oliver Twist",
+    "Carols"
+  ],
+  "views": 7000
+},
+{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c522e"
+  },
+  "author": "Stephen King",
+  "tags": [
+    "Shining",
+    "Torrance"
+  ],
+  "views": 9000
+},
+{
+  "_id": {
+    "$oid": "690707c959fb8c17a69c522f"
+  },
+  "author": "Charles Dickens",
+  "tags": [
+    "Two Cities",
+    "Copperfield"
+  ],
+  "views": 8000
+}]
